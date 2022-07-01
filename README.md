@@ -1,7 +1,5 @@
 # Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
 
-This folder contains the code for the TensorFlow Lite codelab:
-
 Project Purpose:
 - The aim of the project is to make a mobile application that allows us to guess what kind of flower a flower shown on the phone camera is and get information about this flower.
 
@@ -15,8 +13,6 @@ Project Construction Phase:
 
 
 # Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
-
-This folder contains the code for the TensorFlow Lite codelab:
 
 Proje Amacı:
 - Proje amacı telefon kamerasından gösterilen bir çiçeğin ne tür bir çiçek olduğunu tahmin edip bu çiçek hakkında bilgi almamızı sağlayan bir mobil uygulama yapmak.
